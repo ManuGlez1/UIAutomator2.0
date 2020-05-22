@@ -1,0 +1,94 @@
+TC01
+Test Passed: Invalid number
+TC02
+Test Passed: Calling 4491234312
+TC03
+Test Passed: Calling 11111111111
+TC04
+Test Passed: Calling *666
+TC05
+Test Passed: Invalid number
+TC06
+Test Passed: Invalid Number
+TC07
+Test Passed: Calling 4491234312
+TC08
+Test Passed: Calling 11111111111
+TC09
+Test Passed: Calling *666
+TC10
+Test Passed: Invalid Number
+TC11
+Test Passed: Wifi is already turned On
+TC12
+Test Passed: Wifi has been turned Off successfully
+TC13
+Test Passed: Wifi is already turned Off
+TC14
+Test Passed: Wifi has been turned On successfully
+TC15
+Test Passed:
+	Operation: 150+220
+	Expected Result: 370
+	Actual Result: 370
+TC16
+Test Passed:
+	Operation: 150-50
+	Expected Result: 100
+	Actual Result: 100
+TC17
+Test Passed:
+	Operation: 9*9
+	Expected Result: 81
+	Actual Result: 81
+TC18
+Test Passed:
+	Operation: 99/3
+	Expected Result: 33
+	Actual Result: 33
+TC19
+Test Passed:
+	Operation: 12.4+20+
+	Expected Result: None
+	Actual Result: None
+TC20
+Test Passed:
+	Operation: 10/0
+	Expected Result: None
+	Actual Result: None
+TC21
+Test Failed: Wrong Result
+	Operation: -150+-220
+	Expected Result: -370
+	Actual Result: −70
+TC22
+Test Failed: Wrong Result
+	Operation: -150--50
+	Expected Result: -100
+	Actual Result: 100
+TC23
+Test Failed: Wrong Result
+	Operation: -9*9
+	Expected Result: -81
+	Actual Result: 81
+TC24
+Test Failed: Wrong Result
+	Operation: -99/3
+	Expected Result: -33
+	Actual Result: 33
+TC25
+Test Passed:
+	Operation: 10*10+50
+	Expected Result: 150
+	Actual Result: 150
+TC26
+Test Failed: Wrong Result
+	Operation: 10*-10+50
+	Expected Result: -50
+	Actual Result: 50
+TC27
+Calling from +12058968177 to +524495293218
+Test Passed: New voice mail successfully left
+--------------- RESULTS ---------------
+test start:  "05-21-20 22:34:06.734689" 
+test end  :  "05-21-20 22:38:32.801585"
